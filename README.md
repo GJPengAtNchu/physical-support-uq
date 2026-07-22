@@ -5,8 +5,12 @@ Reproducibility package for the numerical illustration in:
 > Guan-Ju Peng, *Honest Physical-Support Inference after Latent Dictionary
 > Learning: Collision Singularities and Minimax Resolution*.
 
-The paper and its brief summary are available at https://gist.science/paper/2607.16813.
-The code evaluates the three least-favourable comparisons in the paper's
+The paper and its brief summary are respectively available at 
+https://arxiv.org/abs/2607.16813
+and 
+https://gist.science/paper/2607.16813.
+
+The code evaluates the three least-favorable comparisons in the paper's
 low-dimensional balanced hard core. It reproduces the sixth-order orientation
 information, the approximate collapse against `N s^6`, and the
 equal-coefficient task invariance / amplitude-contrast control.
@@ -22,7 +26,7 @@ The confirmatory protocol was frozen before its seeds were used. Its retained
 status is `HOLD_NUMERICAL_EVIDENCE` because one secondary median-collapse
 threshold narrowly missed (`0.0166976` versus `0.015`). The maximum-spread,
 sixth-order, quadrature, task-invariance, and projective-matching checks passed.
-The separately labelled post-hoc diagnostics cannot change that status; they
+The separately labeled post-hoc diagnostics cannot change that status; they
 show that the geometry is robust.
 
 ## Released numerical results
