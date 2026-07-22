@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Three-gate theorem-native simulation"
+type: software
+authors:
+  - family-names: Peng
+    given-names: Guan-Ju
+    orcid: "https://orcid.org/0000-0001-5508-9485"
+version: 1.0.0
+date-released: 2026-07-22
+repository-code: "https://github.com/GJPengAtNchu/physical-support-uq"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Peng
+      given-names: Guan-Ju
+      orcid: "https://orcid.org/0000-0001-5508-9485"
+  title: "Honest Physical-Support Inference after Latent Dictionary Learning: Collision Singularities and Minimax Resolution"
+  year: 2026

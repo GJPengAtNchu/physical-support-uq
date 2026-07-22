@@ -1,0 +1,24 @@
+{
+  "all_s_order14_quadrature": {
+    "diagnostic_only": true,
+    "r_squared": 0.999990419502634,
+    "scaled_max_min_ratio": 1.0698065371527208,
+    "slope": 5.934210530577638
+  },
+  "h_scaling": {
+    "intercept": -13.627556807908938,
+    "pass": true,
+    "r_squared": 0.9998278367162932,
+    "scaled_max_min_ratio": 1.0941126863184631,
+    "slope": 1.9430826192064738,
+    "standard_error": 0.012748788846140956
+  },
+  "r0_status_unchanged": "HOLD_NUMERICAL_EVIDENCE",
+  "status": "R0_HOLD_BUT_GEOMETRY_ROBUST",
+  "stress": {
+    "failed_cells": 0,
+    "maximum_slope": 5.9603844006128055,
+    "minimum_slope": 5.759207246652176,
+    "pass": true
+  }
+}
