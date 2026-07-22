@@ -5,6 +5,16 @@ Reproducibility package for the numerical illustration in:
 > Guan-Ju Peng, *Honest Physical-Support Inference after Latent Dictionary
 > Learning: Collision Singularities and Minimax Resolution*.
 
+@misc{peng2026honestphysicalsupportinferencelatent,
+      title={Honest Physical-Support Inference after Latent Dictionary Learning: Collision Singularities and Minimax Resolution}, 
+      author={Guan-Ju Peng},
+      year={2026},
+      eprint={2607.16813},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2607.16813}, 
+}
+
 The paper and its brief summary are respectively available at 
 https://arxiv.org/abs/2607.16813
 and 
