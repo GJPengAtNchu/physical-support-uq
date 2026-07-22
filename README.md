@@ -5,6 +5,7 @@ Reproducibility package for the numerical illustration in:
 > Guan-Ju Peng, *Honest Physical-Support Inference after Latent Dictionary
 > Learning: Collision Singularities and Minimax Resolution*.
 
+The paper and its brief summary are available at https://gist.science/paper/2607.16813.
 The code evaluates the three least-favourable comparisons in the paper's
 low-dimensional balanced hard core. It reproduces the sixth-order orientation
 information, the approximate collapse against `N s^6`, and the
